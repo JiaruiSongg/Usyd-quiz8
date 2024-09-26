@@ -4,3 +4,13 @@ In this technique, the image is split into multiple particles. Each particle can
 
 ![Image 1](assets/photo1.png)
 ![Image 2](assets/photo2.png)
+
+
+# Part 2: Coding Technique Exploration
+
+I found the particle system in p5.js. It creates dynamic effects similar to pixelation by manipulating the properties and positions of particles. This technique helps me add animation to the pixelated effect of an image. The image is split into multiple particles, and each can move based on brightness and position. Gradually adjusting transparency, color, or speed creates a one-pixel dynamic effect.
+
+Link: [Codep](https://codepen.io/Mamboleoo/pen/GRJKoBw)
+
+![Code1](assets/code1.png)
+![Code2](assets/code2.png)
